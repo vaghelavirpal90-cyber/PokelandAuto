@@ -16,7 +16,7 @@
 * along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-    <color name="primary">#4CAF50</color>
+    <color name="primary">#07080B</color>
     <color name="accent">#448AFF</color>
 
     <color name="textTitle">#FFFFFF</color>
